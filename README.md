@@ -3,7 +3,7 @@ Python as Bridges communication with HTTP
 
 ## How to use
 ### Requirement :
-- Python 3
+- Python 3+
 ### 1 Install module
 ```pip install -r requirements.txt```
 
